@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf62f6ef-1894-4201-bd7f-b9bc232436af" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/com/demo/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vn/com/demo/ShoppingCart.java" afterDir="false" />
-    </list>
+    <list default="true" id="cf62f6ef-1894-4201-bd7f-b9bc232436af" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1763005436946</updated>
       <workItem from="1763005438005" duration="1000" />
-      <workItem from="1763015453411" duration="331000" />
+      <workItem from="1763015453411" duration="524000" />
     </task>
     <servers />
   </component>
